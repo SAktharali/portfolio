@@ -5,7 +5,7 @@ const Header = () => {
   const[toggleMenu,setToggleMenu]=useState(false);
   return (
     <header className='flex justify-between px-5 py-2  bg-primary'>
-        <a href="/" className='font-extrabold text-2xl'>Aktharali</a>
+        <a href="#" className='font-extrabold text-2xl'>Aktharali</a>
         <nav className='hidden md:block'>
         <ul className='flex text-white'>
             <li><a href="#">Home</a></li>
