@@ -3,7 +3,7 @@ import resumeImg from '../assets/resume.jpg';
 
 const Resume = () => {
   const config={
-    link:'https://drive.google.com/file/d/1EC4zkHYXDYMT2v-abo5EvUrEFeKX68RZ/view?usp=sharing'
+    link:'https://drive.google.com/file/d/1tuF9hSAB13zG66FovZbWN0KWYnS4Hyoy/view?usp=drivesdk'
   }
   return (
     <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5'>
